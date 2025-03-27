@@ -1,0 +1,6 @@
+cert.pem
+key.pem
+*.pem
+requirements.txt
+summa.py
+yolov10x.pt
