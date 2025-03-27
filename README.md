@@ -1,5 +1,7 @@
 "# InnerVoice" 
 
+Clone the repo: git clone https://github.com/mytreyanjp/InnerVoice.git
+
 How to run:
 1. Download the Dataset file in InnerVoice, backend:
 Link: https://drive.google.com/uc?id=1gN9j90siiqpmm2Aj83uQlKE7YNZtfDZV&export=download
